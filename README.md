@@ -6,3 +6,4 @@ para ejecutar el sistema, debes poner:
 
 ///rasd asdasd///
 
+sistema de registro 2
